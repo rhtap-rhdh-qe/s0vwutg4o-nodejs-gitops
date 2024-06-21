@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: s0vwutg4o-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/s0vwutg4o-nodejs
